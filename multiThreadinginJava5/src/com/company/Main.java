@@ -52,7 +52,7 @@ public class Main {
 
         System.out.println("Exiting main thread");
 
-        //as per the output this waited for the child thread to end before exiting the main thread
+        //as per the output this waited for the child thread to end before exiting the main thread.
 
 
     }
